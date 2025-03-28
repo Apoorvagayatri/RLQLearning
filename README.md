@@ -4,7 +4,7 @@ A comprehensive implementation of various Q-Learning algorithms for the Cliff Wa
 
 > **Note:** This project builds upon the base implementation from [John-CYHui/Reinforcement-Learning-Cliff-Walking](https://github.com/John-CYHui/Reinforcement-Learning-Cliff-Walking).
 
-> **[📄 View the Detailed Observations Report](docs /observations_report.pdf)**
+> **[📄 View the Detailed Observations Report](docs/observations_report.pdf)**
 
 ## Project Overview
 
