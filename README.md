@@ -4,6 +4,8 @@ A comprehensive implementation of various Q-Learning algorithms for the Cliff Wa
 
 > **Note:** This project builds upon the base implementation from [John-CYHui/Reinforcement-Learning-Cliff-Walking](https://github.com/John-CYHui/Reinforcement-Learning-Cliff-Walking).
 
+> **[📄 View the Detailed Observations Report](docs/observations_report.pdf)**
+
 ## Project Overview
 
 This project implements and compares multiple Q-Learning variants in a Cliff Walking environment, including:
@@ -77,13 +79,15 @@ This will:
 
 ## Observations Report
 
-For an in-depth analysis of the algorithms' performance, refer to the `docs/observations_report.pdf` which contains:
+For an in-depth analysis of the algorithms' performance, refer to the **[📄 observations_report.pdf](docs/observations_report.pdf)** which contains:
 
 - Detailed comparison of all four Q-Learning variants
 - Stability analysis across different hyperparameters
 - Convergence metrics and visualization
 - Trade-offs between the algorithms
 - Recommendations for practical applications
+
+The report includes visualizations of learning curves, policy maps, and statistical analysis of the performance differences between standard Q-Learning and its variants.
 
 ## Parameters
 
